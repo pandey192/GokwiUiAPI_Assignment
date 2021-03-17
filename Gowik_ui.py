@@ -37,7 +37,7 @@ driver.find_element_by_xpath('//*[@id="msg"]').send_keys(msg)
 time.sleep(2)
 
 
-driver.find_element_by_xpath('//*[@id="__next"]/div/div/div/div/div[2]/div/div[1]/form/div[4]/div/button').click()
+driver.find_element_by_xpath('//*[@id="__next"]/div/div/div/div/div[2]/div/div[1]/form/div[4]/div/button').click()  #notclicking
 
 time.sleep(2)
 
