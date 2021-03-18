@@ -41,3 +41,4 @@ driver.find_element_by_xpath('//*[@id="__next"]/div/div/div/div/div[2]/div/div[1
 
 time.sleep(2)
 
+driver.close() 
